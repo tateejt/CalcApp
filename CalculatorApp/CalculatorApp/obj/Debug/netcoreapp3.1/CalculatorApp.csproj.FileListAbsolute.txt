@@ -1,0 +1,13 @@
+C:\Users\tatee\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.exe
+C:\Users\tatee\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.deps.json
+C:\Users\tatee\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.json
+C:\Users\tatee\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.dev.json
+C:\Users\tatee\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.dll
+C:\Users\tatee\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.pdb
+C:\Users\tatee\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\tatee\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\tatee\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfo.cs
+C:\Users\tatee\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.dll
+C:\Users\tatee\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.pdb
+C:\Users\tatee\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.genruntimeconfig.cache
+C:\Users\tatee\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csprojAssemblyReference.cache
